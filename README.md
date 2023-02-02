@@ -7,3 +7,5 @@ where you will find the application executable QGardinAssignment3.app
 
 MIT License was chosen as it seems fairly open ended for software use distribution and modification
 while holding identity to the creator of the software.
+
+q6 add to readme
