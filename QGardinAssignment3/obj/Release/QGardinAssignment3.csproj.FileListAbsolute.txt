@@ -1,0 +1,11 @@
+D:\Docs\SchoolFolders\Semester 3\Prog2370\QGardinAssignment3\TileGameAssignment\QGardinAssignment3\bin\Release\QGardinAssignment3.exe.config
+D:\Docs\SchoolFolders\Semester 3\Prog2370\QGardinAssignment3\TileGameAssignment\QGardinAssignment3\bin\Release\QGardinAssignment3.exe
+D:\Docs\SchoolFolders\Semester 3\Prog2370\QGardinAssignment3\TileGameAssignment\QGardinAssignment3\bin\Release\QGardinAssignment3.pdb
+D:\Docs\SchoolFolders\Semester 3\Prog2370\QGardinAssignment3\TileGameAssignment\QGardinAssignment3\obj\Release\QGardinAssignment3.csproj.AssemblyReference.cache
+D:\Docs\SchoolFolders\Semester 3\Prog2370\QGardinAssignment3\TileGameAssignment\QGardinAssignment3\obj\Release\QGardinAssignment3.csproj.SuggestedBindingRedirects.cache
+D:\Docs\SchoolFolders\Semester 3\Prog2370\QGardinAssignment3\TileGameAssignment\QGardinAssignment3\obj\Release\QGardinAssignment3.MainForm.resources
+D:\Docs\SchoolFolders\Semester 3\Prog2370\QGardinAssignment3\TileGameAssignment\QGardinAssignment3\obj\Release\QGardinAssignment3.Properties.Resources.resources
+D:\Docs\SchoolFolders\Semester 3\Prog2370\QGardinAssignment3\TileGameAssignment\QGardinAssignment3\obj\Release\QGardinAssignment3.csproj.GenerateResource.cache
+D:\Docs\SchoolFolders\Semester 3\Prog2370\QGardinAssignment3\TileGameAssignment\QGardinAssignment3\obj\Release\QGardinAssignment3.csproj.CoreCompileInputs.cache
+D:\Docs\SchoolFolders\Semester 3\Prog2370\QGardinAssignment3\TileGameAssignment\QGardinAssignment3\obj\Release\QGardinAssignment3.exe
+D:\Docs\SchoolFolders\Semester 3\Prog2370\QGardinAssignment3\TileGameAssignment\QGardinAssignment3\obj\Release\QGardinAssignment3.pdb
